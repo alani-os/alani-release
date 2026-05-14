@@ -1,3 +1,3 @@
 fn main() {
-    println!("alani-release starter: see docs/repositories/alani-release.md");
+    println!("alani-release: release manifest, image, SBOM, checksum, and signing contracts");
 }
